@@ -1,6 +1,6 @@
 <?php
 
-$age = 25;
+$age = 1256;
 
 /**
  * Bu ödevde age değişkeni içerisinde yer alan yaş değerinin bulunduğu
